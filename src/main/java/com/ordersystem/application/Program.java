@@ -1,4 +1,4 @@
-package com.systemdelivery.application;
+package com.ordersystem.application;
 
 public class Program {
     public static void main(String[] args) {

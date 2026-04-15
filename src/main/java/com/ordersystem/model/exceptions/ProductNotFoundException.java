@@ -1,4 +1,4 @@
-package com.systemdelivery.model.exceptions;
+package com.ordersystem.model.exceptions;
 
 public class ProductNotFoundException extends OrderException {
     public ProductNotFoundException() {

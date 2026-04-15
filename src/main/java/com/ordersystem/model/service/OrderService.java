@@ -1,9 +1,9 @@
-package com.systemdelivery.model.service;
+package com.ordersystem.model.service;
 
-import com.systemdelivery.model.entities.ItemOrder;
-import com.systemdelivery.model.entities.Order;
-import com.systemdelivery.model.entities.Product;
-import com.systemdelivery.model.exceptions.*;
+import com.ordersystem.model.entities.ItemOrder;
+import com.ordersystem.model.entities.Order;
+import com.ordersystem.model.entities.Product;
+import com.ordersystem.model.exceptions.*;
 
 import java.util.ArrayList;
 import java.util.List;

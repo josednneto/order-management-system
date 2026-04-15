@@ -1,9 +1,9 @@
-package com.systemdelivery.application;
+package com.ordersystem.application;
 
-import com.systemdelivery.model.entities.Product;
-import com.systemdelivery.model.exceptions.OrderException;
-import com.systemdelivery.model.exceptions.ProductAlreadyExistsException;
-import com.systemdelivery.model.service.OrderService;
+import com.ordersystem.model.entities.Product;
+import com.ordersystem.model.exceptions.OrderException;
+import com.ordersystem.model.exceptions.ProductAlreadyExistsException;
+import com.ordersystem.model.service.OrderService;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

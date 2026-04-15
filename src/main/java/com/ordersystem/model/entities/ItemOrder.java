@@ -1,4 +1,4 @@
-package com.systemdelivery.model.entities;
+package com.ordersystem.model.entities;
 
 public class ItemOrder {
     private Product product;

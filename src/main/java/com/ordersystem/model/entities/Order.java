@@ -1,7 +1,7 @@
-package com.systemdelivery.model.entities;
+package com.ordersystem.model.entities;
 
-import com.systemdelivery.model.exceptions.OrderCompletedException;
-import com.systemdelivery.model.exceptions.ProductNotFoundException;
+import com.ordersystem.model.exceptions.OrderCompletedException;
+import com.ordersystem.model.exceptions.ProductNotFoundException;
 
 import java.util.ArrayList;
 import java.util.List;

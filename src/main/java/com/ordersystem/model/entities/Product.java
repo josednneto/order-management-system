@@ -1,8 +1,8 @@
-package com.systemdelivery.model.entities;
+package com.ordersystem.model.entities;
 
-import com.systemdelivery.model.exceptions.InsufficientStockException;
-import com.systemdelivery.model.exceptions.InvalidQuantityException;
-import com.systemdelivery.model.exceptions.ProductNullValueException;
+import com.ordersystem.model.exceptions.InsufficientStockException;
+import com.ordersystem.model.exceptions.InvalidQuantityException;
+import com.ordersystem.model.exceptions.ProductNullValueException;
 
 public class Product {
     private Integer id;

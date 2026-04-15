@@ -1,4 +1,4 @@
-package com.systemdelivery.model.exceptions;
+package com.ordersystem.model.exceptions;
 
 public class ProductNullValueException extends OrderException {
     public ProductNullValueException() {
